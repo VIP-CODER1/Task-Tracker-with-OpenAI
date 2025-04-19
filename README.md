@@ -62,7 +62,7 @@ A modern Task Tracker with OpenAI application built with the MERN stack (MongoDB
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TaskTracker-with-OpenAI.git
+   git clone https://github.com/VIP-CODER1/Task-Tracker-with-OpenAI.git
    cd TaskTracker-with-OpenAI
    ```
 
