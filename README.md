@@ -145,7 +145,7 @@ TaskTracker integrates with OpenAI to provide:
 ## 👥 Team
 
 - **Vipul** - Lead Developer
-- *Add other team members here*
+
 
 ## 📄 License
 
@@ -160,4 +160,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Vipul and Team
+Made with ❤️ by Vipul 
