@@ -27,45 +27,47 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-white shadow-sm fixed w-full z-10">
+    <nav className=" bg-green-200 shadow-sm fixed w-full z-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <MdOutlineAddTask className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">
-              TaskTracker
+            <span className="ml-2 text-2xl font-bold text-gray-900">
+              
+              <a  href="#home">TaskTracker</a>
             </span>
           </div>
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
-            <a
-              href="#home"
-              className="text-gray-700 hover:text-indigo-600 transition"
-            >
-              Home
-            </a>
+          <a
+  href="#home"
+  className="text-gray-700 text-xl font-bold transition duration-300 hover:text-indigo-600 hover:bg-green-200 hover:text-2xl px-2 py-1 rounded"
+>
+  Home
+</a>
+
             <a
               href="#features"
-              className="text-gray-700 hover:text-indigo-600 transition"
+              className="text-gray-700 text-xl font-bold transition duration-300 hover:text-indigo-600 hover:bg-green-200 hover:text-2xl px-2 py-1 rounded"
             >
               Features
             </a>
             <a
               href="#services"
-              className="text-gray-700 hover:text-indigo-600 transition"
+              className="text-gray-700 text-xl font-bold transition duration-300 hover:text-indigo-600 hover:bg-green-200 hover:text-2xl px-2 py-1 rounded"
             >
               Services
             </a>
             <a
               href="#about"
-              className="text-gray-700 hover:text-indigo-600 transition"
+              className="text-gray-700 text-xl font-bold transition duration-300 hover:text-indigo-600 hover:bg-green-200 hover:text-2xl px-2 py-1 rounded"
             >
               About
             </a>
             <a
               href="#contact"
-              className="text-gray-700 hover:text-indigo-600 transition"
+             className="text-gray-700 text-xl font-bold transition duration-300 hover:text-indigo-600 hover:bg-green-200 hover:text-2xl px-2 py-1 rounded"
             >
               Contact
             </a>
