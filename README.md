@@ -1,8 +1,7 @@
 # TaskTracker with OpenAI
 
 ![**🔥🔥Task Tracker Banner🔥🔥**]![image](https://github.com/user-attachments/assets/7c9100c1-1e00-44ff-8c3e-efb60c1dcbe2)
-()
-)
+
 
 A modern Task Tracker with OpenAI application built with the MERN stack (MongoDB, Express, React, Node.js) and enhanced with OpenAI integration. TaskTracker helps teams organize, assign, and track tasks efficiently with a beautiful and intuitive interface.
 
