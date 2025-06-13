@@ -1,10 +1,11 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
-// const API_URI = "http://localhost:8800/api";
-const API_URI =import.meta.env.VITE_APP_BASE_URL;
+const API_URI = "https://task-tracker-j6ni.onrender.com";
 
-
-const baseQuery = fetchBaseQuery({ baseUrl: API_URI +"/api",credentials: "include"});
+const baseQuery = fetchBaseQuery({ 
+  baseUrl: API_URI + "/api",
+  credentials: "include"
+});
 
 export const apiSlice = createApi({
   baseQuery,
