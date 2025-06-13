@@ -1,11 +1,9 @@
 import jwt from "jsonwebtoken";
 import mongoose from "mongoose";
-const url = "mongodb+srv://vipulmth1:UNoQSkjEgW5GTMK4@cluster0.pfmxuhi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 export const dbConnection = async () => {
   try {
-    await mongoose.connect(url);
-
+    await mongoose.connect(process.env.MONGODB_URI);
     console.log("DB connection established");
   } catch (error) {
     console.log("DB Error: " + error);
