@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "A modern task management application with OpenAI integration",
   "scripts": {
-    "postinstall": "cd server && npm install",
-    "build": "cd client && npm install && npm run build",
     "start": "node index.js"
   },
   "engines": {
