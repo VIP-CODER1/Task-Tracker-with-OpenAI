@@ -1,9 +1,19 @@
-# TaskTracker with OpenAI
+# TaskTracker with OpenAI  
+A modern Task Tracker with OpenAI application built with the MERN stack (MongoDB, Express, React, Node.js) and enhanced with OpenAI integration. TaskTracker helps teams organize, assign, and track tasks efficiently with a beautiful and intuitive interface.  
+**Live Demo** https://task-tracker-with-openai.onrender.com
 
-![**🔥🔥Task Tracker Banner🔥🔥**]![image](https://github.com/user-attachments/assets/7c9100c1-1e00-44ff-8c3e-efb60c1dcbe2)
+![**🔥🔥Task Tracker Home page🔥🔥**]![image](https://github.com/user-attachments/assets/7c9100c1-1e00-44ff-8c3e-efb60c1dcbe2)  
+
+[**Main Dashboard**] ![image](https://github.com/user-attachments/assets/24b7e0cc-bf71-4154-8eb3-e3f11ede6e7c)  
+[**Task Dashboard**] ![image](https://github.com/user-attachments/assets/c14c1467-3aab-456d-b7fe-1ddb2a1600bd)
+[**Team Member Dashboard**] ![image](https://github.com/user-attachments/assets/2df8f581-98f5-4b23-9fa0-49df9c070e76)
+[**Login & SignUp page**] ![image](https://github.com/user-attachments/assets/aa83e0aa-6850-438b-9742-678a45ee1f8a)
 
 
-A modern Task Tracker with OpenAI application built with the MERN stack (MongoDB, Express, React, Node.js) and enhanced with OpenAI integration. TaskTracker helps teams organize, assign, and track tasks efficiently with a beautiful and intuitive interface.
+
+
+
+
 
 ## ✨ Features
 
@@ -23,16 +33,6 @@ A modern Task Tracker with OpenAI application built with the MERN stack (MongoDB
 - **File Storage**: Firebase integration for secure file storage
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-## 📸 Screenshots
-
-<details>
-<summary>View Screenshots</summary>
-
-![Dashboard](/screenshots/dashboard.png)
-![Task View](/screenshots/task-view.png)
-![Task Submission](/screenshots/task-submission.png)
-
-</details>
 
 ## 🛠️ Tech Stack
 
